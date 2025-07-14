@@ -1,5 +1,3 @@
-# RIULER MENDES
-
 **`Business Intelligence Developer`**
 
 Transformo dados em decisões estratégicas por meio de soluções analíticas escaláveis e orientadas ao negócio. Sou Tech Lead em BI, com experiência em modelagem de dados, integração com APIs, ETL e visualização em Power BI.
