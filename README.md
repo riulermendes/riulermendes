@@ -8,23 +8,6 @@ Tenho formação em Engenharia de Controle e Automação, especialização em BI
 
 Trabalho com DAX, Power Query, SQL, versionamento (GitHub) e automações. Entrego soluções com alto padrão técnico, visual e alinhadas a resultados reais.
 
-<p align="left">
-    <a href="https://github.com/riulermendes?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/riulermendes?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
-
 ---
 
 ### 🤖 Linguagens e Tecnologias
