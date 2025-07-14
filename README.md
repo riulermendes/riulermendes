@@ -8,7 +8,7 @@ Trabalho com DAX, Power Query, SQL, versionamento (GitHub) e automações. Entre
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### Linguagens e Tecnologias
 
 <img 
     align="left" 
