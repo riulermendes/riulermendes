@@ -1,14 +1,21 @@
-**`Business Intelligence Developer`**
+### Lead Analytics Engineer
 
-Transformo dados em decisões estratégicas por meio de soluções analíticas escaláveis e orientadas ao negócio. Sou Tech Lead em BI, com experiência em modelagem de dados, integração com APIs, ETL e visualização em Power BI.
+Control and Automation Engineer with a Post-Graduate degree in BI & Analytics and currently pursuing an MBA in Data Engineering. Focused on building scalable data solutions and high-performance pipeline optimization.
 
-Tenho formação em Engenharia de Controle e Automação, especialização em BI e atualmente curso MBA em Engenharia de Dados, com foco em arquitetura, pipelines e governança.
+**Impact & Deliverables**
+* **Performance Optimization:** Led pipeline refactoring projects resulting in a 90% reduction in processing time.
+* **Applied Software Engineering:** Implemented Git, versioning, and CI/CD practices within analytical environments to ensure reliability and scalability.
+* **End-to-End Analytics:** Expertise in advanced dimensional modeling, semantic layer architecture, and executive-level dashboard delivery.
+* **Scalable Architecture:** Development of clean architectures and query optimization geared toward consistent data growth and business adoption.
 
-Trabalho com DAX, Power Query, SQL, versionamento (GitHub) e automações. Entrego soluções com alto padrão técnico, visual e alinhadas a resultados reais.
+**Technical Stack**
+* **Languages:** Advanced SQL, Python (Pandas/PySpark), DAX, M.
+* **BI & Data:** Power BI, Power Query, API Integration.
+* **Engineering:** Dimensional Modeling (Star Schema), Git Flow, ETL/ELT Automation.
 
 ---
 
-### Linguagens e Tecnologias
+### Languages ​​and Technologies
 
 <img 
     align="left" 
