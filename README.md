@@ -19,12 +19,23 @@ Control and Automation Engineer with a Post-Graduate degree in BI & Analytics an
 
 <img 
     align="left" 
+    alt="APACHE SPARK"
+    title="SPARK" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg"
+/>     
+
+<img 
+    align="left" 
     alt="SQL SERVER"
     title="SQL" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg"
 />
+
+
 <img 
     align="left" 
     alt="VISUAL BASIC" 
